@@ -1,0 +1,6 @@
+book_filename: "xinyu"
+output_dir: "docs"
+language:
+  ui:
+    chapter_name: "第 "
+delete_merged_file: true
