@@ -130,7 +130,7 @@ Have you somewhat to do tomorrow; do it today.
 
 Tart Words make no Friends; a spoonful of honey will catch lore flies than a Gallon of Winegar.
 
-Make hast slowly.
+Make haste slowly.
 
 Beware of little Expences, a small Leak will sink a great ship.
 
@@ -334,3 +334,56 @@ Let the bar proclaim "the laws, the rights, the generous plan of power" delivere
 Let the colleges join their harmony in the same delightful concert. Let every declamation turn upon the beauty of liberty and virtue, and the deformity, turpitude, and malignity of slavery and vice. Let the public disputations become researches into the grounds and nature and ends of government, and the means of preserving the good and demolishing the evil. Let the dialogues, and all the exercises, become the instruments of impressing on the tender mind, and of spreading and distributing far and wide, the ideas of right and the sensations of freedom.  
 
 In a word, let every sluice of knowledge be opened and set a-flowing.
+
+# The Liberty Song
+Come join hand in hand brave Americans all, 
+And rouse your bold hearts at fair Liberty's call: 
+No tyrannous acts shall suppress your just claim,  
+Or stain with dishonour America's name.  
+
+CHORUS:  
+In Freedom we're born and in Freedom we'll live.  
+Our purses are ready, Steady. Friends, Steady. Not as slaves, but as Freemen our money we'll give.  
+Our worthy Forefathers -- Let's give them a cheer  
+
+To Climates unknown did courageously steer; 
+Thro' Oceans, to deserts, for freedom they came  
+And dying bequeath'd us their freedom and Fame.  
+Their generous bosoms all dangers despis'd, so highly, so wisely, their Birthrights they priz'd: 
+We'll keep what they gave, we will piously keep.  
+Nor frustrate their toils on the land and the deep.  
+The Tree their own hands had to Liberty rear'd; 
+They liv'd to behold growing strong and rever'd;  
+With transport they cry'd, "Now our wishes we gain  
+For our children shall gather the fruits of our pain."  
+Swarms of placemen and pensioners soon will appear  
+Like locusts deforming the charms of the year;  
+Suns vainly will rise.  
+Showers vainly descend, If we are to drudge for what others shall spend  
+Then join hand in hand brave Americans all, By uniting we stand, by dividing we fall;  
+In so Righteous a cause let us hope to succeed, For Heaven approves of each generous deed.  
+All ages shall speak with amaze and applause, Of the courage we'll show in support of our laws;  
+To die we can bear--but to serve we disdain, For shame is to freedom more dreadful than pain.  
+This bumper I crown for our Sovereign's health, And this for Britannia's glory and wealth;  
+That wealth and that glory immortal may be, If she is but just--and if we are but Free.    
+
+# Chief Logan's Lament
+
+I appeal to any white man to say. if ever he entered Logan's cabin hungry, and he gave him not meat: if ever he came cold and naked, and he cloathed him not. During the course of the last long and bloody war Logan remained idle in his cabin, an advocate for peace. Such was my love for the whites, that my countrymen pointed as they passed, and said, "Logan is the friend of white man." I had even thought to have lived with you, but for the injuries of one man. Colonel Cresap, the last spring, in cold blood, and unprovoked, murdered all the relations of Logan. not even sparing my women and children. There runs not a drop of my blood in the veins of any living creature. This called on me for revenge. I have sought it: I have killed many: I have fully glutted my vengeance: for my country I rejoice at the beams of peace. But do not harbour a thought that mine is the joy of fear. Logan never felt fear. He will not turn on his heel to save his life. Who is there to mourn for Logan. --Not one.
+
+# The Slaves' Appeal to the Royal Governor of Massachusetts
+
+### The Petition of a Grate Number of Blacks of this Province who by divine permission are held in a state of Slavery within the bowels of a free and Christian Country
+
+Humbly Shewing
+
+That your Petitioners apprehind we have in common with all other men a naturel right to our freedoms without Being depriv'd of them by our fellow men as we are a freeborn Pepel and have never forfeited this Blessing by aney compact or agreement whatever. But we were unjustly dragged by the cruel hand of power from our dearest frinds and sum of us stolen from the bosoms of our tender Parents and from a Populous Pleasant and plentiful country and Brought hither to be made slaves for Life in a Christian land. Thus we are deprived of every thing that hath a tendency to make life even tolerable, the endearing ties of husband and wife we are strangers to for we are no longer man and wife than our masters or mistresses thinkes proper marred or onmarred. Our children are also taken from us by force and sent maney miles from us wear we seldom or ever see them again there to be made slaves of for Life which sumtimes; is vere short by Reson of Being dragged from their mothers Breest Thus our Lives are imbittered to us on these accounts By our deplorable situation we are rendered incapable of shewing our obedience to Almighty God how can a slave perform the duties of a husband to a wife or parent to his child How can a husband leave master to work and cleave to his wife How can the wife submit themselves to there husbands in all things How can the child obey thear parents in all things. There is a great number of us sencear ... members of the Church of Christ how can the master and the slave be said to fulfil that command Live in love let Brotherly Love contuner and abound Beare yea onenothers Bordenes How can the master be said to Beare my Borden when he Beares me down whith the Have chanes of slavery and operson against my will and how can we fulfill our parte of duty to him whilst in this condition and as we cannot searve our God as we ought whilst in this situation. Nither can we reap an equal benefet from the laws of the Land which doth not justifi but condemns Slavery or if there had bin aney Law to hold us in Bondage we are Humbely of tile opinion ther never was aney to inslave our children for life when Born in a free Countrey. We therfor Bage your Excellency and Honours will give this its deer weight and consideration and that you will accordingly cause an act of the legislative to be pessed that we may obtain our Natural right our freedoms and our children be set at lebety at the yeare of twenty one for whoues sekes more petequeley your Petitioners is in Duty ever to pray.
+
+# Speech to the Second Virginia Convention by Patrick Henry
+
+It is natural for man to indulge in the illusions of hope. We are apt to shut our eyes against a painful truth, and listen to the song of that siren, till she transforms us into beasts. Is this the part of wise men, engaged in a great and arduous struggle for liberty. Are we disposed to be of the number of those who. having eyes, see not, and having ears, hear not, the things which so nearly concern their temporal salvation. For my part, whatever anguish of spirit it may cost, I am willing to know the whole truth; to know the worst and to provide for it.  
+
+I have but one lamp by which my feet are guided; and that is the lamp of experience. I know of no way of judging of the future but by the past. And judging by the past, I wish to know what there has been in the conduct of the British ministry for the last ten years to justify those hopes with which gentlemen have been pleased to solace themselves and the House. Is it that insidious smile with which our petition has been lately received. Trust it not, sir; it will prove a snare to your feet. Suffer not yourselves to be betrayed with a kiss. Ask yourselves how this gracious reception of our petition comports with these warlike preparations which cover our waters and darken our land. Are fleets and armies necessary to a work of love and reconciliation. Have we shown ourselves so unwilling to be reconciled, that force must be called in to win back our love. Let us not deceive ourselves sir. These are the implements of war and subjugation; the last arguments to which kings resort. I ask gentlemen, sir, what means this martial array, if its purpose be not to force us to submission. Can gentlemen assign any other possible motives for it. Has Great Britain any enemy, in this quarter of the world, to call for all this accumulation of navies and armies. No, sir, she has none. They are meant for us; they can be meant for no other. They are sent over to bind and rivet upon us those chains which the British ministry have been so long forging. And what have we to oppose to them. Shall we try" argument. Sir, we have been trying that for the last ten years. Have we anything new to offer on the subject. Nothing. We have held the subject up in every light of which it is capable; but it has been all in vain. Shall we resort to entreaty and humble supplication. What terms shall we find which have not been already exhausted. Let us not, I beseech you, sir, deceive ourselves longer. Sir, we have done everything that could be done to avert the storm which is now coming on. We have petitioned; we have remonstrated; we have supplicated; we have prostrated ourselves before the tyrannical hands of the ministry and parliament. Our petitions have been slighted; our remonstrances have produced additional violence and insult; our supplications have been disregarded; and we have been spurned, with contempt, from the foot of the throne. In vain, after these things, may we indulge the fond hope of peace and reconciliation. There is no longer any room for hope. If we wish to be free--if we mean to preserve inviolate those inestimable privileges for which we have been so long contending--if we mean not basely to abandon the noble struggle in which we have been so long engaged, and which we have pledged ourselves never to abandon until the glorious object of our contest shall be obtained, we must fight! I repeat it, sir, we must fight! An appeal to arms and to the God of Hosts is all that is left us!  
+
+They tell us, sir, that we are weak; unable to cope with so formidable an adversary. But when shall we be stronger. Will it be the next week, or the next year. Will it be when we are totally disarmed, and when a British guard shall be stationed in every house. Shall we gather strength by irresolution and inaction. Shall we acquire the means of effectual resistance by lying supinely on our backs, and hugging the delusive phantom of hope, until our enemies shall have bound us hand and foot. Sir, we are not weak, if we make a proper use of the means which the God of nature hath placed in our power. Three millions of people, armed in the holy cause of liberty, and in such a country as that which we possess, are invincible by any force which our enemy can send against us. Besides, sir, we shall not fight our battles alone. There is a just God who presides over the destinies of nations; and who will raise friends to fight our battles for us. The battle, sir, is not to the strong alone; it is to the vigilant, the active, the brave. Besides, sir, we have no election. If we were base enough to desire it, it is now too late to retire from the contest. There is no retreat but in submission and slavery! Our chains are forged! Their clanking may be heard on the plains of Boston! The war is inevitable--and let it come! I repeat it, sir, let it come!
+It is in vain, sir, to extenuate the matter. Gentlemen may cry peace, peace--but there is no peace. The war is actually begun! The next gale that sweeps from the North will bring to our ears the clash of resounding arms! Our brethren are already in the field! Why stand we here idle. What is it that gentlemen wish. What would they have. Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery. Forbid it, Almighty God! I know not what course others may take; but as for me, give me liberty, or give me death!
