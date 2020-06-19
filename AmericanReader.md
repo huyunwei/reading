@@ -1,6 +1,11 @@
 American Reader
 Words That Moved A Nation
 -----------------------
+# Links
+
+https://web-archive-2017.ait.org.tw/infousa/zhtw/PUBS/AmReader/TOC.HTM
+
+
 # The Mayflower Compact
 
 IN THE NAME OF GOD, AMEN. We, whose names are underwritten, the Loyal Subjects of our dread Sovereign Lord King James, by the Grace of God, of Great Britain, France, and Ireland, King, Defender of the Faith, &c. Having undertaken for the Glory of God, and Advancement of the Christian Faith, and the Honour of our King and Country, a Voyage to plant the first Colony in the northern Parts of Virginia; Do by these Presents, solemnly and mutually, in the Presence of God and one another, covenant and combine ourselves together into a civil Body Politick, for our better Ordering and Preservation, and Furtherance of the Ends aforesaid: And by Virtue hereof do enact, constitute, and frame, such just and equal Laws, Ordinances, Acts, Constitutions, and Officers, from time to time, as shall be thought most meet and convenient for the general Good of the Colony; unto which we promise all due Submission and Obedience. IN WITNESS whereof we have hereunto subscribed our names at Cape-Cod the eleventh of November, in the Reign of our Sovereign Lord King James, of England, France, and Ireland, the eighteenth, and of Scotland the fifty-fourth, Anno Domini; 1620.
@@ -683,8 +688,7 @@ Let us, then, with courage and confidence pursue our own Federal and Republican 
 
 About to enter, fellow-citizens, on the exercise of duties which comprehend everything dear and valuable to you, it is proper you should understand what I deem the essential principles of our Government, and consequently those which ought to shape its Administration. I will compress them within the narrowest compass they will bear, staling the general principle, but not all its limitations. Equal and exact justice to all men, of whatever state or persuasion, religious or political; peace, commerce, and honest friendship with all nations, entangling alliances with none; the support of the State governments in all their rights, as the most competent administrations for our domestic concerns and the surest bulwarks against antirepublican tendencies; the preservation of the General Government in its whole constitutional vigor, as the sheet anchor of our peace at home and safety abroad; a jealous care of the right of election by the people--a mild and safe corrective of abuses which are lopped by the sword of revolution where peaceable remedies are unprovided; absolute acquiescence in the decisions of the majority, the vital principle of republics, from which is no appeal but to force, the vital principle and immediate parent of despotism; a well-disciplined militia, our best reliance in peace and for the first moments of war, till regulars may relieve them; the supremacy of the civil over the military authority; economy in the public expense, that labor may be lightly burthened; the honest payment of our debts and sacred preservation of the public faith; encouragement of agriculture, and of commerce as its handmaid; the diffusion of information and arraignment of all abuses at the bar of the public reason; freedom of religion; freedom of the press, and freedom of person under the protection of the habeas corpus, and trial by juries impartially selected. These principles form the bright constellation which has gone before us and guided our steps through an age of revolution and reformation. The wisdom of our sages and blood of our heroes have been devoted to their attainment. They should be the creed of our political faith, the text of civic instruction, the touchstone by which to try the services of those we trust; and should we wander from them in moments of error or of alarm, let us hasten to retrace our steps and to regain the road which alone leads to peace, liberty, and safety ...
 
-#
-
+# The Star-Spangled Banner *by Francis Scott Key*
 
 Oh, say, can you see, by the dawn's early light  
 What so proudly we hail at the twilight's last gleaming,  
@@ -749,3 +753,113 @@ And now, far removed from the loved habitation,
     The tear of regret will intrusively swell,  
 As fancy reverts to my father's plantation,  
     And sighs for the bucket that hung in the well.   
+
+
+# Home, Sweet Home *by JOHN Howard PAYNE*
+
+'Mid pleasures and palaces though we may roam,
+Be it ever so humble, there's no place like home;
+A charm from the sky seems to hallow us there,
+Which, seek through the world, is ne'er met with elsewhere.
+    Home, home, sweet home!
+There's no place like home, oh, there's no place like home!
+
+An exile from home, splendor dazzles in vain;
+Oh, give me my lowly thatched cottage again!
+The birds singing gayly, that came at my call--
+Give me them--and the peace of mind, dearer than all!
+    Home, home, sweet, sweet home!
+There's no place like home, oh, there's no place like home!
+
+I gaze on the moon as I tread the drear wild,
+And feel that my mother now thinks of her child,
+As she looks on that moon from our own cottage door
+Thro' the woodbine, whose fragrance shall cheer me no more.
+     Home, home, sweet, sweet home!
+There's no place like home, oh, there's no place like home!
+
+How sweet 'tis to sit 'neath a fond father's smile,
+And the caress of a mother to soothe and beguile!
+Let others delight 'mid new pleasure to roam,
+But give me, oh, give me, the pleasures of home,
+    Home, home, sweet, sweet home!
+There's no place like home, oh, there's no place like home!
+
+To thee I'll return, overburdened with care;
+The heart's dearest solace will smile on me there;
+No more from that cottage again will I roam;
+Be it ever so humble, there's no place like home.
+    Home, home, sweet, sweet home!
+There's no place like home, oh, there's no place like home!
+
+# A Visit from St. Nicholas *by CLEMENT CLARKE MOORE*  
+
+T was the night before Christmas, when all through the house  
+Not a creature was stirring, not even a mouse;  
+The stockings were hung by the chimney with care,  
+In hopes that St. Nicholas soon would be there;
+
+The children were nestled all snug in their beds,  
+While visions of sugar-plums danced in their heads;  
+And mamma in her kerchief, and I in my cap,  
+Had just settled our brains for a long winter's nap,--  
+
+When out on the lawn there arose such a clatter,   
+I sprang from my bed to see what was the matter.  
+Away to the window I flew like a flash,  
+Tore open the shutters and threw up the sash.  
+
+The moon on the breast of the new-fallen snow  
+Gave a lustre of midday to objects below;  
+When what to my -wondering eyes should appear,  
+But a miniature sleigh and eight tiny reindeer,  
+
+With a little old driver, so lively and quick  
+I knew in a moment it must be St. Nick.  
+More rapid than eagles his coursers they came,  
+And he whistled and shouted, and called them  
+
+"Now, Dasher! now, Dancer! now, Prancer and Vixen!  
+On, Comet! on, Cupid! on, Donder and Blitzen!  
+To the top of the porch, to the top of the wall!  
+Now dash away, dash away, dash away all!"  
+
+As dry leaves that before the wild hurricane fly,  
+When they meet with an obstacle, mount to the sky,  
+So up to the house-top the coursers they flew,  
+With the sleigh full of toys,--and St. Nicholas too.  
+
+And then in a twinkling I heard on the roof  
+The prancing and pawing of each little hoof.  
+As I drew in my head, and was turning around,  
+Down the chimney St. Nicholas came with a bound.  
+
+He was dressed all in fur from his head to his foot,  
+And his clothes were all tarnished with ashes and soot;  
+A bundle of toys he had flung on his back,  
+And he looked like a pedlar just opening his pack.  
+
+His eyes, how they twinkle! his dimples, how merry!   
+His cheeks were like roses, his nose like a cherry;  
+His droll little mouth was drawn up like a bow  
+And the beard on his chin was as white as the  snow.  
+
+The stump of a pipe he held tight in his teeth,  
+And the smoke it encircled his head like a wreath.  
+He had a broad face and a little round belly  
+That shook, when he laughed, like a bowl full of jelly.  
+
+He was chubby, and plump,--a right jolly old elf;  
+And I laughed, when I saw him, in spite of myself.  
+A wink of his eye and a twist of his head  
+Soon gave me to know I had nothing to dread.  
+
+He spoke not a word, but went straight to his work,  
+And filled all the stockings: then turned with a jerk,  
+And laying his finger aside of his nose,  
+And giving a nod, up the chimney he rose.  
+
+He sprang to his sleigh, to his team gave a whistle.  
+And away they all flew like the down of a thistle;  
+But I heard him exclaim, ere he drove out of sight,  
+"Happy Christmas to all, and to all a goodnight!"   

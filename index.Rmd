@@ -3,17 +3,14 @@ title: "《世说新语》的解释和疑问"
 author: "[linyi518](http://www.tianya.cn/1907780)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output:
+  bookdown::gitbook:
+    :md_extensions: -ascii_identifiers
 documentclass: book
-bibliography:
-biblio-style: apalike
-link-citations: yes
-github-repo: huyunwei/readling
-description: "编辑旧帖"
 ---
 
 # Motivation {-}
 
 多年前第一次在天涯读到 linyi518 的[《世说新语》](http://bbs.tianya.cn/post-books-108487-1.shtml) 愤慨于天涯纯文字，毫无排版的风格，又正好开始学markdown，于是就开始剪刀浆糊的试着排版，做了这篇。
 
-这么多年过去，帖子还没有结束，似乎烂尾，而我也至今还没读完新语。放在GitHub聊做回忆吧
+这么多年过去，帖子还没有结束，似乎烂尾，而我也至今还没读完新语。放在GitHub聊做回忆吧。
